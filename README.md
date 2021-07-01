@@ -1,2 +1,2 @@
-# Deteksi-Berita-Hoax-
+# DeteksiBeritaHoax-
 menggunakan metode naive bayes
